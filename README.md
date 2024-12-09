@@ -1,6 +1,6 @@
 # SmaDS_SiamUnet
 
-Model code for our dual-sensor change detection paper.
+Model code for our dual-sensor change detection paper https://ieeexplore.ieee.org/abstract/document/10368086.
 
 Change detection (CD) methods for remote sensing images based on deep learning have garnered increasing research attention. However, existing deep learning approaches are often tailored for specific types of sensors. Extending these methods to dual-sensor scenarios presents challenges, including difficulties in data fusion and an increase in parameter numbers. To address these challenges, we propose a novel dual-stream encoder-decoder CD network architecture.
 ![The distinction between SAR images and optical images](figs/overview.pdf)
